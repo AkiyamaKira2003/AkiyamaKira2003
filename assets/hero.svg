@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Akiyama Kira</title>
-  <desc id="desc">A celestial-blue portfolio banner with a central K emblem, Akiyama Kira's name and software development focus.</desc>
+  <desc id="desc">A celestial-blue banner with Akiyama Kira's name on the left and a K emblem centered inside orbital rings on the right.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B1224"/>
@@ -40,7 +40,7 @@
   <g clip-path="url(#bounds)">
     <rect width="1200" height="320" fill="url(#background)"/>
     <rect width="1200" height="320" fill="url(#grid)"/>
-    <ellipse cx="600" cy="114" rx="430" ry="270" fill="url(#aura)"/>
+    <ellipse cx="982" cy="148" rx="390" ry="260" fill="url(#aura)"/>
     <path d="M0 300C240 232 343 346 554 295S964 253 1200 310" fill="none" stroke="#9CC7FE" stroke-opacity=".12" stroke-width="1.6"/>
     <path d="M0 282C223 229 381 333 597 282S1001 242 1200 278" fill="none" stroke="#B7A5F8" stroke-opacity=".12" stroke-width="1.3"/>
     <g fill="#C8EEFF">
@@ -50,7 +50,10 @@
       <circle class="star delay" cx="1077" cy="275" r="1.2"/>
       <circle class="star" cx="119" cy="279" r="1"/>
     </g>
-    <g transform="translate(600 109) scale(.66) translate(-971 -161)">
+    <text x="64" y="171" fill="url(#heading)" font-family="Segoe UI, Arial, sans-serif" font-size="75" font-weight="700" letter-spacing="-2.1">Akiyama Kira</text>
+    <text x="68" y="215" fill="#CCDBEF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Thoughtful interfaces. Practical tools. Reliable systems.</text>
+    <path d="M68 246H520" stroke="#87BEF3" stroke-opacity=".4"/>
+    <text x="68" y="276" fill="#9EBBD7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2.1">WEB EXPERIENCES  /  AUTOMATION  /  DEVELOPER TOOLS</text>
     <g class="halo" fill="none" stroke="url(#orbital)" stroke-opacity=".58">
       <circle cx="971" cy="161" r="122" stroke-width="1.1" stroke-dasharray="3 9"/>
       <ellipse cx="971" cy="161" rx="95" ry="124" transform="rotate(-34 971 161)" stroke-width="1.2"/>
@@ -59,13 +62,9 @@
     </g>
     <circle cx="971" cy="161" r="76" fill="#152C4D" fill-opacity=".8" stroke="#9AD9FF" stroke-opacity=".39"/>
     <circle cx="971" cy="161" r="64" fill="none" stroke="#BDD2FF" stroke-opacity=".11"/>
-    <text x="971" y="192" fill="#D9EEFF" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="91" font-weight="700" letter-spacing="-7">K</text>
+    <text id="k-monogram" x="971" y="161" dominant-baseline="central" text-anchor="middle" fill="#D9EEFF" font-family="Segoe UI, Arial, sans-serif" font-size="91" font-weight="700">K</text>
     <circle cx="1088" cy="133" r="5" fill="#D5B9FB"/>
     <circle cx="876" cy="88" r="3" fill="#9AE8F7"/>
-    </g>
-    <text x="600" y="236" text-anchor="middle" fill="url(#heading)" font-family="Segoe UI, Arial, sans-serif" font-size="69" font-weight="700" letter-spacing="-1.6">Akiyama Kira</text>
-    <text x="600" y="276" text-anchor="middle" fill="#CCDBEF" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400">Thoughtful interfaces. Practical tools. Reliable systems.</text>
-    <text x="600" y="301" text-anchor="middle" fill="#9EBBD7" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.1">WEB EXPERIENCES  /  AUTOMATION  /  DEVELOPER TOOLS</text>
   </g>
   <rect x=".5" y=".5" width="1199" height="319" rx="21.5" fill="none" stroke="#9AC8F9" stroke-opacity=".2"/>
 </svg>
