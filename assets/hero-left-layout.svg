@@ -62,7 +62,7 @@
     </g>
     <circle cx="971" cy="161" r="76" fill="#152C4D" fill-opacity=".8" stroke="#9AD9FF" stroke-opacity=".39"/>
     <circle cx="971" cy="161" r="64" fill="none" stroke="#BDD2FF" stroke-opacity=".11"/>
-    <text id="k-monogram" x="971" y="161" dominant-baseline="central" text-anchor="middle" fill="#D9EEFF" font-family="Segoe UI, Arial, sans-serif" font-size="91" font-weight="700">K</text>
+    <text id="k-monogram" x="971" y="161" dy="-6" dominant-baseline="central" text-anchor="middle" fill="#D9EEFF" font-family="Segoe UI, Arial, sans-serif" font-size="91" font-weight="700">K</text>
     <circle cx="1088" cy="133" r="5" fill="#D5B9FB"/>
     <circle cx="876" cy="88" r="3" fill="#9AE8F7"/>
   </g>
