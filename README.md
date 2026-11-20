@@ -30,6 +30,17 @@ I enjoy turning ideas into **useful, well-crafted software** — from expressive
   <img src="https://skillicons.dev/icons?i=cs,lua,cloudflare,git,github,vscode,visualstudio,windows&perline=8" alt="C#, Lua, Cloudflare, Git, GitHub, VS Code, Visual Studio and Windows" />
 </p>
 
+### Featured work
+
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **KiraShop** | Interactive personal developer space featuring a Sudoku experience and motion-rich UI. | [Live site](https://kirashop.id.vn) |
+| **Kira Motion Lab** | Open-source accessible micro-interactions: glass tilt, orbital animation and an abstract CSS waveform. | [Live demo](https://akiyamakira2003.github.io/Kira-Motion-Lab/) · [Source](https://github.com/AkiyamaKira2003/Kira-Motion-Lab) |
+| **Contribution Doctor** | Offline CLI to diagnose GitHub contribution eligibility and export a privacy-safe visual dashboard. | [Live demo](https://akiyamakira2003.github.io/Kira-Contribution-Doctor/) · [Source](https://github.com/AkiyamaKira2003/Kira-Contribution-Doctor) |
+| **Kira LC** | Live dashboards for viewing game currency rates. | [Live site](https://kiralc.io.vn) |
+| **RateLineageVN** | Public JavaScript Lineage currency tracking. | [Source](https://github.com/AkiyamaKira2003/RateLineageVN) · [Demo](https://rate-lineage-vn.vercel.app) |
+| **KiraUI** | A Lua library for Roblox UI components. | [Source](https://github.com/AkiyamaKira2003/KiraUI) |
+
 ### GitHub in motion 🐍
 
 <p align="center">
@@ -56,15 +67,6 @@ I enjoy turning ideas into **useful, well-crafted software** — from expressive
   <source media="(prefers-color-scheme: dark)" srcset="./assets/insights/languages.dark.svg" />
   <img src="./assets/insights/languages.light.svg" alt="Languages used in public GitHub source repositories" width="100%" />
 </picture>
-
-### Featured work
-
-| Project | What it does | Explore |
-| --- | --- | --- |
-| **KiraShop** | Personal developer space with interactive visuals and a playable Sudoku experience. | [Live website](https://kirashop.id.vn) |
-| **Kira LC** | Responsive dashboards for viewing in-game currency rates across games and servers. | [Live website](https://kiralc.io.vn) |
-| **RateLineageVN** | Public JavaScript project for tracking Lineage currency rates. | [Source](https://github.com/AkiyamaKira2003/RateLineageVN) · [Demo](https://rate-lineage-vn.vercel.app) |
-| **KiraUI** | A Lua UI library for building Roblox interfaces. | [Source](https://github.com/AkiyamaKira2003/KiraUI) |
 
 ### More things I've built
 
