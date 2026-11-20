@@ -30,7 +30,7 @@ I enjoy turning ideas into **useful, well-crafted software** — from expressive
 ### More things I've built
 
 - **[FarmTimerOverlay](https://github.com/AkiyamaKira2003/FarmTimerOverlay)** — a C# desktop overlay utility.
-- **[Quick-text-manager](https://github.com/AkiyamaKira2003/Quick-text-manager)** — a lightweight text-management project.
+- **[Quick-text-manager](https://github.com/AkiyamaKira2003/Quick-text-manager)** — a desktop text-snippet manager with configurable game/chat overlays and hotkeys.
 
 ### Technologies I work with
 
