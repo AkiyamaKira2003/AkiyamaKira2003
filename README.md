@@ -71,11 +71,7 @@ I enjoy turning ideas into **useful, well-crafted software** — from expressive
 - **[FarmTimerOverlay](https://github.com/AkiyamaKira2003/FarmTimerOverlay)** — a C# desktop overlay utility.
 - **[Quick-text-manager](https://github.com/AkiyamaKira2003/Quick-text-manager)** — a desktop text-snippet manager with configurable game/chat overlays and hotkeys.
 
-### Technologies I work with
-
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Python` · `C#` · `Lua` · `Cloudflare`
-
-I prefer choosing technology to fit the problem rather than the other way around.
+> I choose technology to fit the problem, not the other way around.
 
 ---
 
