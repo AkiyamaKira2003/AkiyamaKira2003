@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Akiyama Kira — web experiences, automation and developer tools" />
+  <img src="./assets/hero-left-layout.svg" width="100%" alt="Akiyama Kira — name on left and a centered K inside orbital rings on right" />
 </p>
 
 <p align="center">
