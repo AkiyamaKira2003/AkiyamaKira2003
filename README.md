@@ -37,7 +37,6 @@ I enjoy turning ideas into **useful, well-crafted software** — from expressive
 | **KiraShop** | Interactive personal developer space featuring a Sudoku experience and motion-rich UI. | [Live site](https://kirashop.id.vn) |
 | **Kira Motion Lab** | Open-source accessible micro-interactions: glass tilt, orbital animation and an abstract CSS waveform. | [Live demo](https://akiyamakira2003.github.io/Kira-Motion-Lab/) · [Source](https://github.com/AkiyamaKira2003/Kira-Motion-Lab) |
 | **Kira LC** | Live dashboards for viewing game currency rates. | [Live site](https://kiralc.io.vn) |
-| **RateLineageVN** | Public JavaScript Lineage currency tracking. | [Source](https://github.com/AkiyamaKira2003/RateLineageVN) · [Demo](https://rate-lineage-vn.vercel.app) |
 | **KiraUI** | A Lua library for Roblox UI components. | [Source](https://github.com/AkiyamaKira2003/KiraUI) |
 
 ### GitHub in motion 🐍
