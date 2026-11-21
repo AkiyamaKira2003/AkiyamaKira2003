@@ -19,7 +19,7 @@ I enjoy turning ideas into **useful, well-crafted software** — from expressive
 
 - **I build:** interactive websites, practical automations and desktop utilities.
 - **I focus on:** user experience, performance, reliability and maintainable systems.
-- **I explore:** browser automation, developer tooling and constraint-based puzzle generation.
+- **I explore:** AI-agent evaluation, browser automation, developer tooling and constraint-based puzzle generation.
 
 ### Languages & tools
 
@@ -34,6 +34,7 @@ I enjoy turning ideas into **useful, well-crafted software** — from expressive
 
 | Project | What it does | Explore |
 | --- | --- | --- |
+| **Kira Agent Trace Lab** | Reproducible, offline evaluation of recorded AI-agent tool actions against explicit policies. Research prototype; not a runtime security system or a validated safety benchmark. | [Source](https://github.com/AkiyamaKira2003/kira-agent-trace-lab) · [Evidence limits](https://github.com/AkiyamaKira2003/kira-agent-trace-lab/blob/main/docs/RELEASE_GATE_V05_RESEARCH.md) |
 | **KiraShop** | Interactive personal developer space featuring a Sudoku experience and motion-rich UI. | [Live site](https://kirashop.id.vn) |
 | **Kira Motion Lab** | Open-source accessible micro-interactions: glass tilt, orbital animation and an abstract CSS waveform. | [Live demo](https://akiyamakira2003.github.io/Kira-Motion-Lab/) · [Source](https://github.com/AkiyamaKira2003/Kira-Motion-Lab) |
 | **Kira LC** | Live dashboards for viewing game currency rates. | [Live site](https://kiralc.io.vn) |
